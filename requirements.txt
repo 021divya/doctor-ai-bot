@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+pillow
+python-multipart
+langchain
+openai
+sqlalchemy
